@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../../bootstrap-sunglasses"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "bootstrap_template1570522807"
+  }
+}
